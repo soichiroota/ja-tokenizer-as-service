@@ -6,4 +6,4 @@ responder==2.0.5
 sentencepiece==0.1.90
 SudachiDict-core==20200330
 SudachiPy==0.4.4
-tensorflow-cpu==1.15.0
+tensorflow-cpu==2.9.3
